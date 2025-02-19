@@ -5,11 +5,9 @@ Lesson0/
 Task*SrcReady/
 
 #Not ready yet
-Lesson10
 LessonN
 
-Libs/Java/lwjgl-3.2.3.zip
-
+Labs/*.zip
 
 # Build results
 [Dd]ebug/
